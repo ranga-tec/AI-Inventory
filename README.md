@@ -1,4 +1,4 @@
-# Inventory Management System with AI Agents (Developing))
+# Inventory Management System with AI Agents (In Development))
 
 An advanced inventory management system that uses AutoGen AI agents to handle complex inventory operations through natural language interactions.
 
